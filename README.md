@@ -24,3 +24,6 @@ pytest
 python_version = ["3.9", "3.10"]
 ```
 - Run the tool which will do all of the above tests with the specified version.
+
+
+- `nox` & `tox` does similar thing
